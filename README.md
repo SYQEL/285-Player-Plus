@@ -1,7 +1,5 @@
 # 🎵 285 Player Plus – Real-Time Solfeggio Frequency Retuning 🎶  
 
-![285 Player Plus](https://your-image-url.com/banner.png)  
-
 ### Elevate  Your Music with Healing Frequencies  
 
 **285 Player Plus** is a next-generation music player that **retunes any audio in real-time** to **285 Hz and other Solfeggio Frequencies**, allowing you to experience the profound benefits of healing soundscapes.  
