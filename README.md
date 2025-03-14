@@ -5,7 +5,7 @@
 **285 Player Plus** is a next-generation music player that **retunes any audio in real-time** to **285 Hz and other Solfeggio Frequencies**, allowing you to experience the profound benefits of healing soundscapes.  
 
 🔥 **Key Features:**  
-- ✅ **Real-Time Audio Retuning** – Experience music in **174 Hz**, and more.  
+- ✅ **Real-Time Audio Retuning** – Experience music in **285 Hz**, and more.  
 - ✅ **Lossless Audio Support** – FLAC, WAV, MP3, and more.  
 - ✅ **Custom Frequency Modes** – Personalize your listening experience.  
 - ✅ **Intuitive UI & Playback Controls** – Designed for seamless usability.  
